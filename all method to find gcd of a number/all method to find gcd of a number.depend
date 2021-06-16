@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620332790 source:/home/roshan/coding_bloocks_stl/all method to find gcd of a number/main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621372073 source:/home/roshan/coding_bloocks_stl/minimum coin exchange general/main.cpp
+	<iostream>
+	<climits>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620496008 source:/home/roshan/coding_bloocks_stl/calculate power of large number/main.cpp
+	<iostream>
+	<climits>
+
